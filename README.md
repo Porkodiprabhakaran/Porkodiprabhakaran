@@ -1,5 +1,5 @@
-- - 👋 Hi, I’m @Porkodiprabhakaran
-- 🎓 I hold a doctorate in Computer Science.
+- - 👋 Hi, I’m @Dr.K.P.PORKODI
+  - - 🎓 I hold a doctorate in Computer Science.
 - 👀 I’m interested in AI/ML projects and data analytics.
 - 💼 I have over 15 years of experience in developing AI-based projects using LLM and PyTorch.
 - 📝 I have published more than 12 journals in top indexing.
